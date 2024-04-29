@@ -2,8 +2,9 @@
 - 🌍 I'm based in Lima
 - 👀 I’m interested in game development, animation or artificial intelligence.
 - 🌱 I’m currently learning game development and 3D modeling.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: jharvichu@gmail.com
+- 📫 How to reach me:
+-   jharvichu@hotmail.com
+-   jharvy.cadillo.t@uni.pe
 
 <!---
 Jharvichu/Jharvichu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
