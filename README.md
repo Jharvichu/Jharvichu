@@ -20,7 +20,6 @@
   </a>
 </p>
 
----
 
 ### &nbsp;About Me
 * 🌍 **Location:** Based in **Lima, Peru**.
