@@ -33,7 +33,7 @@
   <a href="https://discord.gg/jharvichu">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/JharvyJonasCadilloTarazona">
+  <a href="https://www.linkedin.com/in/jharvy-jonas-cadillo-tarazona/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jharvichu@gmail.com">
